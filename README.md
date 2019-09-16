@@ -110,4 +110,4 @@ Daha ayrıntılı bilgi ve kurallara, kanalların açıklama bölümünden ulaş
 
 Sunucuya giriş yapabilmek için __bu gönderiye__ YMY tepkisini -:beginner:- bırakınız. Bu tepkiyi bırakmanız, ben bütün kuralları okudum ve kabul ettim anlamına gelmektedir -sunucuda zaten bulunuyorsanız ve *@YMY Üyesi* rolünüz var ise tepki bırakmanıza gerek yok-. Tepki bıraktığınız halde sunucuya __giriş yapmakta sorun yaşıyorsanız__ yönetim ekibine bildirin. Bu sunucuda kullanıcıların başına gelebilecek hiç bir zarardan **Yazılımcıların Mola Yeri** sorumlu değildir. **İyi eğlenceler :rocket:**
 
-**NOT:** `:beginner:` = `:yazilimcilarinmolayeri:`, anlamına gelmektedir.Ek olarak imla hatalırını bildiriniz!
+**NOT:** `:beginner:` = `:yazilimcilarinmolayeri:`, anlamına gelmektedir. Ek olarak imla hatalırını bildiriniz!
