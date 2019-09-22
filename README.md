@@ -20,7 +20,7 @@ Bu kuralların çiğnenmesi **sunucudan yasaklanmanıza** sebebi olabilir.<br/>
 **4.** __Erotik ve pornografik -cinsel içerikli-__ fotoğrafla ve yazılarr paylaşmayın.<br/>
 **5.** Sunucu üyelerine **zarar verebilecek** yazılımlar paylaşmaktan kaçının.<br/>
 **6.** Yönetici ekip dışında kullanıcıların **everyone** ve **here** kullanmaları yasaktır.<br/>
-**7.** Dini, siyasi, ırkçı, cinsel konuşmadan uzak durun ve bu konular hakkında tartışma çıkarmayın.<br/>
+**7.** Dini, siyasi, ırkçı, cinsel içerikli -Profil görseli veya kullanıcı adıda buna dahildir- konuşmadan uzak durun ve bu konular hakkında tartışma çıkarmayın.<br/>
 **8.** Odalarda içeriklerine uygun sohbet edin. Kısaca odaları __amaçları dışında__ kullanmaktan kaçının.<br/>
 **9.** İnsanlardan yardım isterken, arka arkaya -örneğin: yardım, yardım edin, lütfen yardım vb.- yardım mesajları atmayınız.<br/>
 **10.** __Reklam yapmayın__. Discord sunucusu davet adresi, YouTube, Twitch vb. **kişisel çıkar sağlanılan** her türlü adres paylaşmak reklama girmektedir.<br/>
