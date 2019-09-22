@@ -86,10 +86,9 @@ Daha ayrıntılı bilgi ve kurallara, kanalların açıklama bölümünden ulaş
 
 **-** Forum **:** [https://forum.yazilimcilarinmolayeri.com](https://forum.yazilimcilarinmolayeri.com/)<br>
 **-** Blog **:** [https://yazilimcilarinmolayeri.com](https://yazilimcilarinmolayeri.com/)<br>
-**-** YouTube **:** [https://www.youtube.com/channel/UCrlxBg5_koMMYjkNi-JRgOQ](https://www.youtube.com/channel/UCrlxBg5_koMMYjkNi-JRgOQ/)<br>
+**-** GitHub **:** [https://github.com/ymy-gitrepo](https://github.com/ymy-gitrepo)<br>
 **-** Twitter **:** [https://twitter.com/yzilimcilarinmy](https://twitter.com/yzilimcilarinmy)<br>
 **-** Instagram **:** [https://www.instagram.com/yazilimcilarinmolayeri](https://www.instagram.com/yazilimcilarinmolayeri/)<br>
-**-** GitHub **:** [https://github.com/YazilimcilarinMolaYeri](https://github.com/YazilimcilarinMolaYeri)<br>
 
 **-** Sunucu logosu **:** [https://imgur.com/1EtJJGX](https://imgur.com/1EtJJGX)<br>
 **-** Süresiz davet adresi **:** [https://discord.gg/KazHgb2](https://discord.gg/KazHgb2)<br>
