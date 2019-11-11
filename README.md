@@ -1,112 +1,126 @@
-![hos-geldiniz.png](https://raw.githubusercontent.com/Yazilimcilarin-Mola-Yeri/beni-oku-kanali/master/banners/hos-geldiniz.png)
+![banner](banners/hos_geldin-banner.png)
 
-:beginner: **Yazılımcıların Mola Yeri Discord Sunucusuna Hoş Geldiniz!**<br/>
-Programlama severler için yardımlaşma ve sohbet ortamıdır. Görüş ve öneriler için **:** *#öneri-şikayet*<br/>
-*#beni-oku* odasını kesinlikle okuyunuz. Bu sunucunun bir üyesi olarak kurallara uymanız zorunludur.<br/>
-**-** Yazılım rolleri almak için **:** *#yazılım-rolü-alma* odasını ziyaret ediniz...
+:tada: **Yazılımcıların Mola Yeri Discord Sunucusuna Hoş Geldin !!!**
 
-**-** [https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif](https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif) :smile:
-![gif](https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif)
+Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje hakkında sorular sorabileceğin ve diğer insanlara yardımcı olabileceğin sıcak, samimi bir mola ortamı. Senle daha iyi kaynaşabilmemiz açısından #kendini-tanıtabilirsin ve insanlara daha hızlı yardımcı olmak için roller alabilirsin. Daha fazlası için sunucuyu keşfet, sohbet ve muhabbetin tadını çıkar ! :spaghetticode:
+
+• https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif
 
 <hr>
 
-![kurallar.png](https://raw.githubusercontent.com/Yazilimcilarin-Mola-Yeri/beni-oku-kanali/master/banners/kurallar.png)
+![banner](banners/kurallar-banner.png)
 
-Bu kuralların çiğnenmesi **sunucudan yasaklanmanıza** sebebi olabilir.<br/>
+:sparkles: Bu kuralların çiğnenmesi **sunucudan yasaklanmanıza** sebebi olabilir.
+```md
+1. Sunucuya ve sunucu kullanıcılarına zarar verebilecek yazılımlar paylaşmaktan/dağıtmaktan kaçın.
 
-**1.** Yöneticilere ve üyelere  karşı yazışırken ve konuşurken **saygılı olun** ve hakaret içeren her türlü davranıştan kaçının.<br/>
-**2.** Yazışırken __spam -arka arkaya defalarca mesaj atmak- ve flood__ yapmayın.<br/>
-**3.** Sesli konuşma odalarında insanları rahatsız edecek şekilde konuşmaktan kaçının.<br/>
-**4.** __Erotik ve pornografik -cinsel içerikli-__ fotoğrafla ve yazılarr paylaşmayın.<br/>
-**5.** Sunucu üyelerine **zarar verebilecek** yazılımlar paylaşmaktan kaçının.<br/>
-**6.** Yönetici ekip dışında kullanıcıların **everyone** ve **here** kullanmaları yasaktır.<br/>
-**7.** Dini, siyasi, ırkçı, cinsel içerikli -Profil görseli veya kullanıcı adıda buna dahildir- konuşmadan uzak durun ve bu konular hakkında tartışma çıkarmayın.<br/>
-**8.** Odalarda içeriklerine uygun sohbet edin. Kısaca odaları __amaçları dışında__ kullanmaktan kaçının.<br/>
-**9.** İnsanlardan yardım isterken, arka arkaya -örneğin: yardım, yardım edin, lütfen yardım vb.- yardım mesajları atmayınız.<br/>
-**10.** __Reklam yapmayın__. Discord sunucusu davet adresi, YouTube, Twitch vb. **kişisel çıkar sağlanılan** her türlü adres paylaşmak reklama girmektedir.<br/>
+2. Yazışırken spam ve flood -arka arkaya defalarca mesaj atmak- yapma. Emoji, bağlantı dosya vs. dahildir.
 
-***EK HATIRLATMALAR***<br/>
+3. İsim başına sembol koymak, uygunsuz yazı karakteri kullanmak yasaktır. İsim başına koyulan semboller, hoisting, zalgo ve diğer olağandışı yazı tipleri dahil.
 
-**NASIL YARDIM __ALAMAZSINIZ__!**<br/>
-  Yazılım & Tasarım Odalarında yardım alırken şu şekillerde yardım almaktan kaçının:<br/>
-    **-** Yanlış kanallarda yardım istemek -*#sohbet* odasında yardım istemeyin-.<br/>
-    **-** Yardım alınacak konu hakkında eksik -yetersiz- bilgi vermek.<br/>
-    **-** Yardım edin! Lütfen! gibi isteklerde bulunmak.<br/>
-    **-** Yardım alacağınız konuya ilişkin rolü gönderiye etiketlememek.<br/>
-    **-** Yardım alacağınız konu hakkında, "Bunu biliyor musunuz?" vb. sorular sormak.<br/>
-    **-** Zaten bilgi sahibi olduğunuz bir konuya iliştkin arka arkaya aynı tarzda soru sormak.<br/>
-       Bunun yerine arama motorlarını tercih edin.<br/>
+4. Sesli konuşma kanallarında kullanıcıları rahatsız edecek şekilde davranmaktan kaçın.
 
-**Özgür Yazılım - *#proje-tanıtma-ve-özgür-yazılım*  -** kanalında içerik paylaşırken şu yerleşime özen gösterin:<br/>
-**-** [https://imgur.com/qZP8mxa.png](https://imgur.com/qZP8mxa.png)<br>
-![image](https://imgur.com/qZP8mxa.png)<br/>
+5. Üyeleri rahatsız etmek yasaktır. Gereksiz etiketler, özel mesajlar, arkadaşlık istekleri, rahatsız edebilecek tavırlar ve diğer saygı dışı eylemleri de kapsar.
 
-<hr>
+6. Sunucu kanallarını içeriklerine uygun kullan, amaçları dışında kullanma.
 
-![kanallar.png](https://raw.githubusercontent.com/Yazilimcilarin-Mola-Yeri/beni-oku-kanali/master/banners/kanallar.png)
+7. Erotik, pornografik, dini, siyasi ve ırkçı içerikli görsel, video vb. paylaşım yapma ve bunun hakkında tartışma çıkarma. Profil resmi ve kullancı adı da bu durumu kapsar.
 
-Daha ayrıntılı bilgi ve kurallara, kanalların açıklama bölümünden ulaşabilirsiniz.<br/>
+8. İnsanlardan yardım isterken, arka arkaya -"yardım!", "yardım edin!", "lütfen yardım!" vb.- yardım mesajları atma.
 
-**BİLGİ ODALARI**<br/>
-  *#beni-oku* **:** Sunucu kuralları<br/>
-  *#duyuru* **:** Sunucu duyuruları<br/>
-  *#partner* **:** Partner açıklama ve bağlantıları<br/>
-  *#anket-çekiliş* **:** Sunucu anketleri<br/>
-  *#öneri-şikayet* **:** Kullanıcılar tarafından yapılan öneri ve şikayetler<br/>
-  *#yazılım-rolü-alma* **:** Tepki bırakarak yazılım rolü alabilirsin<br/>
-**PAYLAŞIM ODALARI**<br/>
-  *#iş-ilanları* **:** İş ve ürün ilanları için<br/>
-  *#kendini-tanıt* **:** Üyeler kendini tanıtır<br/>
-  *#ücretsiz-eğitimler* **:** Ücretsiz eğitimler paylaşılır<br/>
-  *#blog-websayfası-tanıtma* **:** Reklam amacı gütmeyen blog ve web siteleri<br/>
-**SOHBET ODALARI**<br/>
-  *#sohbet* **:** Genel sohbet odası<br/>
-  *#gündem* **:** Gündemdeki teknolojik haber bağlantıları<br/>
-  *#konu-dışı* **:** Konu dışı ve bot komutları<br/>
-  *#yeni-başlayanlara-tavsiyeler* **:** Her türlü konuda yeni başlayanlara tavsiyeler<br/>
-**SES KANALLARI**<br/>
-  *#müzik-komut* **:** Müzik dinlemek için komutlar verilir<br/>
-**YAZILIM & TASARIM ODALARI**<br/>
-  *#algoritma* **:** Algoritma yazmak, tasarlamak, geliştirmek<br/>
-  *#proje-tanıtma-ve-özgür-yazılım* **:** Bütünen özgür olan yazılım kaynakları paylaşımı<br/>
-  *#bilgisayar-programlama* **:** Bilgisayar kavramı içine giren herşey hakkında<br/>
-  *#mobil-programlama* **:** Mobil platformlar için programlama<br/>
-  *#oyun-programlama* **:** Oyun tasarlama ve programlama<br/>
-  *#web-programlama* **:** Web programlama, ağ ve web teknolojileri<br/>
-  *#grafik-tasarım* **:** Her türlü grafik tasarım araçları ve nasıl yapılır<br/>
-  *#işletim-sistemleri* **:** Linux, Unix, Darwin vb. çekirdekli işletim sistemleri<br/>
-  *#bot-geliştirme* **:** Discord, Telegram vb. bot programlama<br/>
-  *#gömülü-sistemler* **:** Mikrodenetleyici ve mikroişlemci tabanlı kartlar<br/>
-  *#yapay-zeka-ve-uzay-bilimi* **:** Yapay zeka ve uzay bilimleri hakkında sohbetler<br/>
-  *#siber-güvenlik-ve-veri-kurtarma* **:** Siber gübenlik ve veri kurtarma hakkında yardımlaşma ve bilgi alışverişi<br/>
+9. Profil durumunun (oynuyor/custom) uygunsuz olması yasaktır. Küfür, discord davet linki, bilinmeyen IP adresleri dahil.
+
+10. Reklam yapma. Sunucusu davetiyesi, Telegram, YouTube, Twitch vb. kişisel çıkar sağlanılan her türlü adresler reklama girmektedir. 
+
+# Bu kuralların çiğnenmesi durumunda yönetim ekibine rapor edebilirsin...
+```
+
+:sparkles: Nasıl yardım **alamazsın** ?
+```diff
+- Yazılım Kanalları veya diğer katagori altındaki kanallarda yardım alırken bu davranışlardan kaçın.
+
+
++ Yanlış kanallarda yardım istemek.
+
++ Yardım alınacak konu hakkında eksik bilgi vermek.
+
++ "Yardım edin !", "Lütfen !" vb. isteklerde bulunmak.
+
++ Yardım alacağınız konuya ilişkin rolü mesaja etiketlememek.
+
++ Yardım alacağınız konu hakkında, "Bunu biliyor musunuz?" vb. sorular sormak.
+
++ Zaten bilgi sahibi olduğunuz bir konuya iliştkin arka arkaya aynı tarzda soru sormak.
+```
 
 <hr>
 
-![baglantilar.png](https://raw.githubusercontent.com/Yazilimcilarin-Mola-Yeri/beni-oku-kanali/master/banners/baglantilar.png)
+![banner](banners/kanallar-banner.png)
 
-**-** Forum **:** [https://forum.yazilimcilarinmolayeri.com](https://forum.yazilimcilarinmolayeri.com/)<br>
-**-** Blog **:** [https://yazilimcilarinmolayeri.com](https://yazilimcilarinmolayeri.com/)<br>
-**-** GitHub **:** [https://github.com/ymy-gitrepo](https://github.com/ymy-gitrepo)<br>
-**-** Twitter **:** [https://twitter.com/yzilimcilarinmy](https://twitter.com/yzilimcilarinmy)<br>
-**-** Instagram **:** [https://www.instagram.com/yazilimcilarinmolayeri](https://www.instagram.com/yazilimcilarinmolayeri/)<br>
+:sparkles: Kanalların daha ayrıntılı __bilgi ve kurallarına__ açıklama bölümlerinden ulaşabilirsiniz.
 
-**-** Sunucu logosu **:** [https://imgur.com/1EtJJGX](https://imgur.com/1EtJJGX)<br>
-**-** Süresiz davet adresi **:** [https://discord.gg/KazHgb2](https://discord.gg/KazHgb2)<br>
+:notepad_spiral: **`Bilgi Kanalları`**
+> #beni-oku : Kurallar ve bilgilendirmeler
+> #duyuru : Duyurular
+> #rol-atama : Yazılım rolleri al
+> #partnerler : Destek sunucularına katıl
+> #anket-çekiliş : Anketler ve çekilişlere katıl
+> #öneri-şikayet : Öneri ve şikayetlerde bulun
 
-***ÖZEL TEŞEKKÜR***<br>
-  Sunucu kurucularımız **:** __İbrahim Yavuz__, __İsmail Uçar__ ve __Özge Sönmez__'e teşekkürler.<br>
-  Bu kanalda kullanılan bannerlar özgür bir yazılım olan **Gimp** ile tasarlanmıştır.<br>
-  İmla hatası düzeltimine katkı yapanlar **:** *emir#1822*, *Ethem#1600*<br>
+:dizzy: **`Paylaşım Kanalları`**
+> #kendini-tanıt : Seni tanıyalım
+> #ücretsiz-eğitimler : Eğitim paylaş
+> #blog-tanıtma : Blogunu tanıt
+> #iş-ilanları : İş ilanları ver
 
-**YÖNETİM EKİBİ**<br>
-  Yöneticiler **:** *@a dlgrb z#4924* **-** *@Emre#1622* **-** *@Yusuf Elmalıoğlu#7085*<br>
-  Moderatörler **:** *@berkealp#3897* **-** *@FatihAlper#6145* **-** *@mustafa_akkaya#4772*<br>
-  Alt Moderatörler **:** Yok<br>
+:coffee: **`Sohbet Kanalları`**
+> #sohbet : Sohbete katıl
+> #tavsiyeler : Tavsiyeler al
+> #konu-dışı : Konu dışı sohbet ve bot komutlarını dene
+> #caps-memes : Mizah içerikli paylaşımlar yap
+
+:tools: **`Yazılım Kanalları`**
+> #algoritma : Algoritma, akış diyagramları
+> #masaüstü-prog : Konsol, kullanıcı arayüzü
+> #web-prog : İşaretleme dilleri, ağ ve web
+> #veritabanı : Veri depolama, kullanma
+> #mobil-prog : Mobil uygulama geliştirme
+> #oyun-prog : Oyun motorları ve tasarımı
+> #güvenlik : Açıklar, korunma yöntemleri
+> #işletim-sistemleri : Çeşitli çekirdekli sistemler
+> #yapay-zeka : Yapay zeka, derin öğrenme
+> #bot-geliştirme : Yardımcı botlar geliştirme
+> #donanım : Donanımsal hatalar ve öneriler
+> #gömülü-sistemler : Elektrik, elektronik
+
+:satellite: **`Diğer Kanallar`**
+> #gündem : Gündem haberlerini oku
+> #grafik-tasarım : 2B, 3B tasarımlar paylaş
+> #proje-sergile : Açık kaynaklı projeler paylaş
+> #bilim-teknoloji : Bilim ve teknoloji içerkileri
+
+:sound: **`Sesli Kanallar`**
+> #müzik-komut : Zevkine göre müzikler dinle
 
 <hr>
 
-:warning: **ÖNEMLİ** :warning: **Üst kısımdaki kuralları __LÜTFEN__ okuyunuz!** **-** "kuralları okumadım", "kuralları görmedim" gibi ibareleri mazeret olarak görmüyoruz.
+![banner](banners/baglantilar-banner.png)
 
-Sunucuya giriş yapabilmek için __bu gönderiye__ YMY tepkisini -:beginner:- bırakınız. Bu tepkiyi bırakmanız, ben bütün kuralları okudum ve kabul ettim anlamına gelmektedir -sunucuda zaten bulunuyorsanız ve *@YMY Üyesi* rolünüz var ise tepki bırakmanıza gerek yok-. Tepki bıraktığınız halde sunucuya __giriş yapmakta sorun yaşıyorsanız__ yönetim ekibine bildirin. Bu sunucuda kullanıcıların başına gelebilecek hiç bir zarardan **Yazılımcıların Mola Yeri** sorumlu değildir. **İyi eğlenceler :rocket:**
+:link: **`Sosyal Medya`**
+• Telegram Grubu : https://t.me/ymytelegram
+• Twitter : https://twitter.com/ymolayeri
+• Instagram : https://instagram.com/ymolayeri
+:link: **`Diğer`**
+• Davet adres : https://discord.gg/KazHgb2
+• Sunucu logosu : https://imgur.com/1EtJJGX
+• GitHub organizasyonu : https://github.com/ymy-gitrepo
 
-**NOT:** `:beginner:` = `:yazilimcilarinmolayeri:`, anlamına gelmektedir. Ek olarak imla hatalırını bildiriniz!
+:revolving_hearts: **`Özel Teşekkür`**
+Sunucu kurucularımız**:**  __İbrahim Yavuz__, __İsmail Uçar__ ve __Özge Sönmez__'e teşekkürler.
+Bu kanalda kullanılan bannerlar özgür bir yazılım olan GIMP ile tasarlanmıştır.
+İmla hatası düzeltimine katkı yapanlar**:** emir#1822, Ethem#1600.
+
+:gear: **`Yönetim Ekibi`**
+• @Yönetici : @adılg#4924, @berkealp#3897
+• @Moderatör : @FatihAlper#6145, @StalkerReborn#5887
+• @Alt Moderatör : Yok
