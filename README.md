@@ -4,7 +4,7 @@
 
 Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje hakkında sorular sorabileceğin ve diğer insanlara yardımcı olabileceğin sıcak, samimi bir mola ortamı. Senle daha iyi kaynaşabilmemiz açısından #kendini-tanıtabilirsin ve insanlara daha hızlı yardımcı olmak için roller alabilirsin. Daha fazlası için sunucuyu keşfet, sohbet ve muhabbetin tadını çıkar ! :spaghetticode:
 
-• ![funny_gif](https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif)
+• https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif
 
 <hr>
 
