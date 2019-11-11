@@ -120,6 +120,6 @@ Bu kanalda kullanılan bannerlar özgür bir yazılım olan GIMP ile tasarlanmı
 
 :gear: **`Yönetim Ekibi`**
 • @Yönetici : @adılg#4924, @berkealp#3897
-• @Moderatör : @FatihAlper#6145, @StalkerReborn#5887
+• @Moderatör : @FatihAlper#6145, @StalkerReborn#5887, @formatcimuhendis#0371 
 • @Alt Moderatör : Yok
 ```
