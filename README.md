@@ -1,16 +1,16 @@
 ![banner](banners/hos_geldin-banner.png)
-
+```
 :tada: **Yazılımcıların Mola Yeri Discord Sunucusuna Hoş Geldin !!!**
 
 Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje hakkında sorular sorabileceğin ve diğer insanlara yardımcı olabileceğin sıcak, samimi bir mola ortamı. Senle daha iyi kaynaşabilmemiz açısından #kendini-tanıtabilirsin ve insanlara daha hızlı yardımcı olmak için roller alabilirsin. Daha fazlası için sunucuyu keşfet, sohbet ve muhabbetin tadını çıkar ! :spaghetticode:
 
 • https://media.giphy.com/media/UNZ3HQH0Enzos/giphy.gif
-
-<hr>
+```
 
 ![banner](banners/kurallar-banner.png)
-
+```
 :sparkles: Bu kuralların çiğnenmesi **sunucudan yasaklanmanıza** sebebi olabilir.
+```
 ```md
 1. Sunucuya ve sunucu kullanıcılarına zarar verebilecek yazılımlar paylaşmaktan/dağıtmaktan kaçın.
 
@@ -34,8 +34,9 @@ Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje
 
 # Bu kuralların çiğnenmesi durumunda yönetim ekibine rapor edebilirsin...
 ```
-
+```
 :sparkles: Nasıl yardım **alamazsın** ?
+```
 ```diff
 - Yazılım Kanalları veya diğer katagori altındaki kanallarda yardım alırken bu davranışlardan kaçın.
 
@@ -53,10 +54,8 @@ Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje
 + Zaten bilgi sahibi olduğunuz bir konuya iliştkin arka arkaya aynı tarzda soru sormak.
 ```
 
-<hr>
-
 ![banner](banners/kanallar-banner.png)
-
+```
 :sparkles: Kanalların daha ayrıntılı __bilgi ve kurallarına__ açıklama bölümlerinden ulaşabilirsiniz.
 
 :notepad_spiral: **`Bilgi Kanalları`**
@@ -101,11 +100,10 @@ Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje
 
 :sound: **`Sesli Kanallar`**
 > #müzik-komut : Zevkine göre müzikler dinle
-
-<hr>
+```
 
 ![banner](banners/baglantilar-banner.png)
-
+```
 :link: **`Sosyal Medya`**
 • Telegram Grubu : https://t.me/ymytelegram
 • Twitter : https://twitter.com/ymolayeri
@@ -124,3 +122,4 @@ Bu kanalda kullanılan bannerlar özgür bir yazılım olan GIMP ile tasarlanmı
 • @Yönetici : @adılg#4924, @berkealp#3897
 • @Moderatör : @FatihAlper#6145, @StalkerReborn#5887
 • @Alt Moderatör : Yok
+```
