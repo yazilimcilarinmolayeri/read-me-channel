@@ -119,7 +119,7 @@ Bu kanalda kullanılan bannerlar özgür bir yazılım olan GIMP ile tasarlanmı
 İmla hatası düzeltimine katkı yapanlar**:** emir#1822, Ethem#1600.
 
 :gear: **`Yönetim Ekibi`**
-• @Yönetici : @adılg#4924, @berkealp#3897
-• @Moderatör : @FatihAlper#6145, @StalkerReborn#5887, @formatcimuhendis#0371 
-• @Alt Moderatör : Yok
+• @Yönetici : -
+• @Moderatör : - 
+• @Alt Moderatör : -
 ```
