@@ -111,7 +111,7 @@ Yazılım, tasarım kaynakları bulabileceğin, üstünde çalıştığın proje
 :link: **`Diğer`**
 • Davet adres : https://discord.gg/KazHgb2
 • Sunucu logosu : https://imgur.com/1EtJJGX
-• GitHub organizasyonu : https://github.com/ymy-gitrepo
+• GitHub organizasyonu : https://github.com/ymy-discord
 
 :revolving_hearts: **`Özel Teşekkür`**
 Sunucu kurucularımız**:**  __İbrahim Yavuz__, __İsmail Uçar__ ve __Özge Sönmez__'e teşekkürler.
