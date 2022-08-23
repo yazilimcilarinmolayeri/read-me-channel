@@ -1,87 +1,108 @@
-### Message 1
+## Message `1`
 
-```
-**Yazılımcıların Mola Yeri** 2018’de İsmail Uçar başta olmak üzere üç kişilik ekiple kurulan bir Discord sunucusudur. Türkiye’deki yazılımcıların problemlerini çözebilecekleri, tartışabilecekleri, yardım alıp yardım edebilecekleri özellikle yazılımcılar için oluşturulmuş bir platformdur. Yönetim ekibi zamanla değişmiş, kadro tamamen yenilenmiştir. :ymykahve:
+```md
+:dot: **`TOPLULUK HAKKINDA`**
 
-**`・`** Hakkımızda: https://yazilimcilarinmolayeri.com/biz-kimiz/
-**`・`** Discord ToS (https://discord.com/terms) kurallarına uyun.
-:nothing:
+Yazılımcıların Mola Yeri, Mart 2018’de kurulan, kullanıcıların herhangi bir konuda özgürce tartıştığı, soru sorduğu, çözüm arandığı veya bilgilendirmelerde bulunduğu bir Discord topluluğudur. Adından da anlaşılacağı gibi çoğunluğunu yazılıma ilgi duyan kullanıcılar oluşturur. 
 ```
 
-### Message 2
-
-```
-**BAĞLANTILAR**
-**`・`** Blog: <https://yazilimcilarinmolayeri.com/>
-**`・`** Davetiye: https://discord.gg/KazHgb2
-**`・`** Telegram: <https://t.me/ymyoht/>
-**`・`** Reddit: <https://reddit.com/r/ymyoh/>
-**`・`** Twitter: <https://twitter.com/ymyoht/>
-**`・`** Instagram: <https://instagram.com/ymyoh/>
-**`・`** GitHub: <https://github.com/yazilimcilarinmolayeri/>
-
-**PARTNERLER**
-**`・`** Türkiye Geliştiriciler Topluluğu: https://discord.gg/sxDUNnX
+## Message `2`
 
 
-**`・`** Davet bağlantısı almak için `?davet` komutunu kullan.
-**`・`** Bu kanalda kullanılan banner'lar özgür bir yazılım olan GIMP ile tasarlanımıştır.
-:nothing:
+```md
+:dot: **`BAĞLANTILAR`**
+
+Topluluğun Discord dışında faliyet gösterdiği yerler:
+
+- Website: yazilimcilarinmolayeri.com
+- GitHub: github.com/yazilimcilarinmolayeri
+- Mastodon: mastodon.social/@yazilimcilarinmolayeri
 ```
 
-### Message 3
+## Message `3`
 
-```
-0. Kullanıcılarına zarar verebilecek derlenmiş dosyalar (exe, apk vs.), kaçak/korsan yazılımlar (crack) paylaşmak ve talep etmek yasaktır.
+```md
+:dot: **`TOPLULUK KURALLARI`**
 
-1. Yazışırken spam ve flood (arka arkaya defalarca mesaj atmak) yapmak yasaktır. Emoji, bağlantı, dosya vs. dahildir.
+0. Sesli topluluk kanallarında üyeleri rahatsız edecek davranışlarda bulunmayın.
 
-2. Sesli konuşma kanallarında kullanıcıları rahatsız edecek şekilde davranmak yasaktır. 
+1. Yazışırken topluluğumuzun ana dili olan Türkçenin ve diğer dillerin imla kurallarına uymaya özen gösterin.
 
-3. İnsanları ve yönetim ekibini rahatsız edebilecek hareketler, tavırlar ve sunucunun düzenini bozabilecek her türlü davranışlar yönetim ekibince uyarı yapılmaksızın engellenecektir. 
+2. Reklam yapmak yasaktır. Discord sunucu davetiyesi ve kişisel çıkar sağlanılan her türlü adres reklama girmektedir.
 
-4. Sunucu kanallarını içeriklerine uygun kullanmak herkesin zorunluluğudur. Sohbet kanalında donanım/yazılım sorusu sormak direkt ban sebebidir.
+3. Üyelere zarar verebilecek derlenmiş dosyalar (exe, apk vs.), kaçak/korsan yazılımlar (crack) paylaşmak ve talep etmek yasaktır.
 
-5. Pornografik, dini, siyasi ve ırkçı içerikli görsel, video vb. paylaşım yapma ve bunun hakkında tartışma çıkarmak kesinlikle yasaktır. Profil resmi ve kullancı adı da bu durumu kapsar.
+4. Sunucu kanallarını içeriklerine uygun kullanmak herkesin zorunluluğudur. Konunun akışına göre lütfen kanal değiştirin. Kanala özel kurallar her kanalın açıklamasında bulunmaktadır. Sohbet (#sohbet) kanalında donanım/yazılım hakkında yardım istemek direkt yasaklanma sebebidir.
 
-6. Özellikle sunucumuzun ana dili olan Türkçeyi ve diğer dillerin imla kurallarına uymaya özen gösterin.
+5. Thread'lerin içerikleri sunucu kuralları çerçevesinde olmadılır. Gereksiz thread açılmamalı, thread'ler suistimal edilmemelidir.
 
-7. Reklam yapmak kesinlikle yasaktır (iş ve staj ilanları, kullanıcı isimleri ve özel durumlar bu kapsama girmemektedir). Sunucusu davetiyesi, Telegram, WhatsApp, YouTube vb. kişisel çıkar sağlanılan her türlü adres reklama girmektedir.
+6. Dini, siyasi, ırkçı, homofobik, NSFW, NSFL ve GORE içerikli görsel, video vb. paylaşım yapma ve bunun hakkında tartışma çıkarmak yasaktır. Profil görseli ve kullancı adı da bu durumu kapsar.
 
-8. Aşırı alınganlık, duyarcılık, iftira ve bilimum laubali davranışlarda bulunan üyeler uyarı yapılmaksızın sunucudan yasaklanacaktır. Cezalandırma işlemi yönetim ekibinin insiyatifine bırakılacak ve süresiz yasaklama cezası uygulanacaktır. 
+7. Aşırı alınganlık, duyarcılık, iftira ve bilimum laubali davranışlarda bulunan üyelere uyarı yapılmaksızın topluluktan yasaklama cezası uygulanacaktır.
 
-9. Final, vize vb. ödevlerin çözümlerinin istenmesi kesinlikle yasaktır. Eğer ki kodunuzda takıldığınız yerler varsa sorabilirsiniz ancak direk ödevin yapılmasını isteyemezsiniz.
+8. Okul ödevlerinizi soru sorarak göndermeyin. Bu sorular sizin çözmeniz için verilmiştir. İpucu istemek kabul edilebilir ama bütün çözümü asla istemeyin.
 
-# Bu kuralların çiğnenmesi durumunda yönetim ekibini etiketleyin ve münakaşaya girmeyin, yetkililerin olayı çözmesini bekleyin.
-# Uzaklaştırma ve susturma gerektirmeyen durumlarda uyarı yapılacaktır. 3. uyarıda 1 gün, 4. uyarıda 1 hafta "mute" işlemi. 5. uyarıda değerlendirmeye alınmaksızın "ban" işlemi uygulanacaktır.
+9. Şahsi meseleler taraflar arasında halledilmelidir. Topluluk ile ilgili olmayan husumetler topluluğa taşınmamalıdır. Topluluk ilgili bir sorun oluşturduğunu düşündüğünüz her türlü şeyi istek ve şikayet (#istek-şikayet) kanalına iletin.
 
-+ Son güncelleme: 14.01.2021
-```
-
-### Message 4
-
-```
-**`・`** Yazılım Kanalları veya diğer kategori altındaki kanallarda yardım alırken bu davranışlardan kaçının.
+- SGT: 08 May 2022
 ```
 
-```
-+ Yanlış kanallarda yardım istemek. Özellikle sohbet kanalında.
+## Message `4`
 
-+ Yardım alınacak konu hakkında eksik bilgi vermek.
+```md
+:dot: **`CEZA SİSTEMİ`**
 
-+ "Yardım edin !", "Lütfen !" vb. isteklerde bulunmak.
-
-+ Yardım alacağınız konuya ilişkin rolü mesaja etiketlememek.
-
-+ Yardım alacağınız konu hakkında, "Bunu biliyor musunuz?" vb. sorular sormak.
-
-+ Zaten bilgi sahibi olduğunuz bir konuya iliştkin arka arkaya aynı tarzda soru sormak. Bunun yerine arama motorlarını tercih edin.
+- Kuralların çiğnenmesi durumunda yönetim ekibini etiketleyin ve münakaşaya girmeyin, yetkililerin olayı çözmesini bekleyin.
+- Yasaklama ve susturma gerektirmeyen durumlarda uyarı yapılacaktır. Toplam 3 uyarıda 1 gün, toplam 4 uyarıda 1 hafta susturma çezası, toplam 5 uyarıda değerlendirmeye alınmaksızın süresiz yasaklama cezası uygulanacaktır.
 ```
 
-### Message 5
+## Message `5`
 
+```md
+:dot: **`YAZILIMCILARIN MOLA YERİ RACONU`**
+
+Soru sorarken;
+
+0. Uygun kanalı dikkatlice seçin.
+   - Bütün yardım kanallarını birden kullanmayın. Bu insanları rahatsız eder, bundan kaçının.
+
+1. Açık, dil bilgisi kurallarına uygun ve sözdizimlerine dikkate ederek yazın.
+   - Her şeyi BÜYÜK HARFLER İLE YAZMAYIN! Büyük harfler bağırmak anlamına gelir ve pek hoş karşılanmaz.
+
+2. Kodları ya da hataları okunabilir, standart biçemlerde gönderin.
+   - Markdown kod blokları kullanın.
+   - Karakter sınırını aşılıyorsa paste servisleri kullanın.
+
+3. Sorununuz hakkında tam ve aydınlatıcı iletiler yazın.
+   - Sorununuz veya yazılım hataları için bulgularınızı dikkatli ve ayrıntılı olarak tanımlayın.
+   - Sorunun meydana geldiği ortamı tanımlayın. Kullandığınız işletim sistemini ve sürümünü belirtin.
+   - Soruyu sormadan önce yaptığınız araştırma ve incelemeleri belirtin.
+   - Sorunu çözmek amacı ile uyguladığınız basamakları tanımlayın.
+   - Sorun ortaya çıkmadan önceki, muhtemel yazılım ve donanım değişikliklerini bildirin.
+
+4. İnsanlardan özel mesajla cevap vermelerini istemeyin.
+   - Soru genele soruluyorsa, genelde cevaplanmalıdır.
+
+5. Sorunuz hakkında açık olun.
+   - Çalışmayan bir kodunuz varsa, birilerinden onu düzeltmelerini istemektense, kodun neresinde hata olduğunu söylemelerini istemek daha iyidir.
+
+6. Ödevlerinizi soru olarak göndermeyin.
+   - Bu sorular sizin çözmeniz için verilmiştir. Bu soruları çözerek deneyim kazanmanız amaçlanmaktadır.
+   - İpucu istemek kabul edilebilir ama bütün çözümü asla istemeyin.
+
+7. Anlamsız bölümleri çıkarın.
+   - Birileri bana yardım edebilir mi?" ya da "Herhangi bir cevap var mı?" gibi anlamsız soru cümleleri kurmayın.
+   - Genel olarak; evet-hayır cevapları almak istemiyorsanız, evet-hayır soruları sormayın.
+
+- SGT: 06 Şub 2022
 ```
-:warning: Bu kuralları `okuyan okumayan herkes` kabul etmiş sayılacaktır. "kuralları okumadım", "kuralları görmedim" gibi ibareleri mazeret olarak görmüyoruz! Kuralların ihlali halinde bahsi geçen üye sunucudan yasaklanacak ve aramıza bundan sonrası için kabul edilmeyecektir.  Sunucuya giriş yapabilmek için bu mesaja YMY Kahve tepkisini (:ymykahve:) bırak. Tepki bıraktığınız halde sunucuya giriş yapmakta sorun yaşıyorsanız yönetim ekibine bildirin. Bu sunucuda kullanıcıların başına gelebilecek hiç bir zarardan Yazılımcıların Mola Yeri sorumlu değildir. 
 
-:redpill: :bluepill:
+## Message `6`
+
+```md
+:dot: **`DİKKAT`**
+
+Bu kuralları okuyan/okumayan herkes kabul etmiş sayılacaktır. "kuralları okumadım", "kuralları görmedim" gibi ibareleri mazeret olarak görmüyoruz! Sunucuya girdiğiniz andan itibaren 3 dakika içerisinde otomatik olarak rol alıp kanallara erişebilirsiniz.
+
+Davetiye: https://discord.gg/KazHgb2 ฅ^•ﻌ•^ฅ
 ```
